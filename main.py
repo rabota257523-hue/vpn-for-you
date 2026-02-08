@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 vpn_bot/
 ├── main.py
 ├── requirements.txt
