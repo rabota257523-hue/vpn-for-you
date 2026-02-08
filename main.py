@@ -2,9 +2,6 @@
 vpn_bot/
 ├── main.py
 ├── requirements.txt
-import os
-from aiogram import Bot, Dispatcher, executor, types
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # 🔐 Токен берётся из переменной окружения
 BOT_TOKEN = os.getenv("BOT_TOKEN")
